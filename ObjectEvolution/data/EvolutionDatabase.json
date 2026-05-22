@@ -1,0 +1,34 @@
+{
+  "objects": {
+    "coin": {
+      "name": "Coin",
+      "tier_unlock": 1,
+      "stages": [
+        {"level": 0, "name": "Coin", "description": "Stealth form."},
+        {"level": 1, "name": "Hover Disc Scout", "description": "Basic mechanical form."},
+        {"level": 2, "name": "Magnetic Combat Drone", "description": "Advanced combat form."},
+        {"level": 3, "name": "Orbital War Core", "description": "Boss-tier evolution."}
+      ]
+    },
+    "pen": {
+      "name": "Pen",
+      "tier_unlock": 1,
+      "stages": [
+        {"level": 0, "name": "Pen", "description": "Stealth form."},
+        {"level": 1, "name": "Energy Blade", "description": "Sharp combat form."},
+        {"level": 2, "name": "Plasma Saber Unit", "description": "Advanced slashing unit."},
+        {"level": 3, "name": "Quantum Execution Weapon", "description": "Ultimate damage output."}
+      ]
+    },
+    "flashlight": {
+      "name": "Flashlight",
+      "tier_unlock": 1,
+      "stages": [
+        {"level": 0, "name": "Flashlight", "description": "Stealth form."},
+        {"level": 1, "name": "Scanner Drone", "description": "Detects weak points."},
+        {"level": 2, "name": "Surveillance Bot", "description": "Advanced tracking lasers."},
+        {"level": 3, "name": "Omni-Sight AI Core", "description": "Absolute battlefield control."}
+      ]
+    }
+  }
+}
